@@ -1,24 +1,29 @@
 ---
 layout: about
-title: about
+title: "specfitlab"
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: advanced in-vivo magnetic resonance spectroscopy
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hopkins.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>johns hopkins</p>
+    <p>baltimore</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The specfitlab is part of the <a href="https://www.hopkinsmedicine.org/radiology/specialties/neuroradiology/">Neuroradiology Division</a> in the <a href="https://www.hopkinsmedicine.org/radiology/">Russell H. Morgan Department of Radiology and Radiological Science</a> at <a href="https://www.hopkinsmedicine.org/">Johns Hopkins University School of Medicine</a>, and the <a href="https://www.kennedykrieger.org/kirby-research-center">F.M. Kirby Research Center for Functional Brain Imaging</a> at the <a href="https://www.kennedykrieger.org/">Kennedy Krieger Institute</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our research is dedicated to developing modern techniques to measure levels of important biochemicals in the living human brain using magnetic resonance spectroscopy. We are particularly focused on improving the detection of neurotransmitters (GABA, glutamate, aspartate), antioxidants (glutathione, ascorbate), and potential molecular markers of brain tumor mutations (2-hydroxyglutarate, cystathionine).
+
+
+The techniques we develop are used to investigate the neurochemical confounds in a wide range of neurological and psychiatric disorders. Currently, we study the levels of brain metabolites in patients with mild cognitive impairment. Further research projects we are involved in concern various neurodevelopmental disorders (autism spectrum disorder, attention-deficit/hyperactivity disorder, Tourette’s syndrome), tuberous sclerosis, hepatic encephalopathy, and glioma.
+
+
+A recent major focus of our attention is the standardization of data acquisition and analysis. We believe that the magnetic resonance spectroscopy community can reap great benefit from embracing the practices of the Open Science movement: We need to adapt code sharing, standardize our acquisition, and streamline our pipelines for processing, quantifying, and interpreting spectroscopic data.
