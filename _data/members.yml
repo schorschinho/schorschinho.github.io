@@ -9,6 +9,7 @@
   twitter: "oeltzschner"
   github: schorschinho
   orcid: "orcid.org/0000-0003-3083-9811"
+  cvfile: CV_Oeltzschner.pdf
   description: "I grew up in a quiet town in the Rhineland, Germany, and studied physics at Heinrich-Heine-Universität in Düsseldorf (despite spending my formative years dreaming about becoming a paleontologist due to an early love for dinosaurs). After graduation, I went on to staff the media department at Fortuna Düsseldorf for a year, fulfilling a career dream of working in sports journalism, before re-discovering that I wanted to be a scientist after all.
 
 
@@ -31,4 +32,7 @@ In my free time, I still spend a questionable amount of time watching, reading, 
   twitter:
   github:
   orcid:
-  description: "I'm Helge."
+  cvfile:
+  description: "Helge is a postdoctoral fellow in our group, and the lead developer of the [Osprey software](/projects/project-osprey/). Helge earned a degree in Medical Physics from Heinrich-Heine-Universität Düsseldorf, and went on to graduate as a PhD under the supervision of Prof. Alfons Schnitzler at the Institute of Clinical Neuroscience and Medical Psychology at the University Hospital in Düsseldorf in 2019.
+
+  Helge then joined Richard Edden, Georg Oeltzschner and Peter Barker at Johns Hopkins, where his work is focused on advanced open-source data processing and modeling of multiple MRS techniques, including spectral editing and spectroscopic imaging."

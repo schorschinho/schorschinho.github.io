@@ -8,6 +8,18 @@ nav: true
 
 # Postdoc in advanced MRS @ Johns Hopkins (acquisition, analysis, clinical application)
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/washington-monument.jpg' | relative_url }}" alt="" title="The Washington Monument in Mount Vernon"/>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mr2.jpg' | relative_url }}" alt="" title="MR2 (Philips Ingenia Elition 3T) at the Kirby Center"/>
+    </div>
+</div>
+<div class="caption">
+    The Washington Monument in Mount Vernon, and MR2 (Philips Ingenia Elition 3T) at the Kirby Center.
+</div>
+
 Are you interested in exciting new methods for magnetic resonance spectroscopy, and their application in multimodal studies? Have you recently graduated and are now wondering about the ideal next step in your career? Look no further! Come and join us (Georg Oeltzschner, Richard Edden, Peter Barker) for a postdoc in the Division of Neuroradiology at Johns Hopkins in Baltimore.
 
 We offer a great opportunity to join the productive and vibrant environment at the intersection of methods development and clinical application. Our work rests on three main pillars:

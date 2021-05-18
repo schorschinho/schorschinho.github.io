@@ -2,7 +2,7 @@
 layout: page
 permalink: /members/
 title: members
-description:
+description: this is us.
 nav: true
 
 ---
@@ -30,6 +30,9 @@ nav: true
         {% endif %}
         {% if person.orcid %}
           <i class="ai ai-orcid"></i> <a href="http://{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
+        {% endif %}
+        {% if person.cvfile %}
+          <i class="ai ai-cv"></i> <a href="{{ person.cvfile | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank"> Curriculum vitae (PDF)</a> <br>
         {% endif %}
 
     </div>
