@@ -23,16 +23,22 @@ In my free time, I still spend a questionable amount of time watching, reading, 
 
 - name: Helge Zöllner
   degrees: PhD
-  image: zoellner.jpg
+  image: HZ.jpg
   altimage:
   position: Postdoc
   email: hzoelln2 (at) jhmi.edu
-  website:
-  scholar:
-  twitter:
-  github:
-  orcid:
-  cvfile:
-  description: "Helge is a postdoctoral fellow in our group, and the lead developer of the [Osprey software](/projects/project-osprey/). Helge earned a degree in Medical Physics from Heinrich-Heine-Universität Düsseldorf, and went on to graduate as a PhD under the supervision of Prof. Alfons Schnitzler at the Institute of Clinical Neuroscience and Medical Psychology at the University Hospital in Düsseldorf in 2019.
+  website: https://hjzollner.github.io/
+  scholar: i1s-kdgAAAAJ
+  twitter: "HelgeZollner"
+  github: HJZollner
+  orcid: "orcid.org/0000-0002-7148-292X"
+  cvfile: CV_HZ.pdf
+  description: "My interest in MR was awoken by stumbling upon a brochure of a newly established study program 'Medical Physics' in Düsseldorf with intriguing pictures of whole-body MRI scans and the idea of studying the advancing field of medical research. During my undergrad years, I was introduced to MR spectroscopy and quantitative imaging under supervision of Prof. Hans-Jörg Wittsack and Georg Oeltzschner at the Institute of Diagnostic and Interventional Radiology at the University Hospital Düsseldorf.
 
-  Helge then joined Richard Edden, Georg Oeltzschner and Peter Barker at Johns Hopkins, where his work is focused on advanced open-source data processing and modeling of multiple MRS techniques, including spectral editing and spectroscopic imaging."
+  Luckily, I was introduced to Prof. Alfons Schnitzler, who gave me an opportunity to do a PhD about metabolic imaging and spectroscopy in hepatic encephalopathy at the Institute of Clinical Neuroscience and Medical Psychology. After finishing my PhD in 2019, I've started my postdoctoral fellowship at Johns Hopkins University, working together with Richard Edden, Georg Oeltzschner, and Peter Barker.
+
+  My research as postdoctoral fellow is focused on the detection of brain metabolites using conventional and edited magnetic resonance spectroscopy, as well as spectroscopic imaging. My particular interest is to develop and standardize methods to detect low-concentration metabolites, such as the main inhibitory neurotransmitter GABA, ascorbate, glutamine, and glutathione.
+
+  Recently I have worked together with Georg Oeltzschner on the development of the open-source MRS data analysis toolbox Osprey. This project is focused on the standardization of processing and quantification of MRS data, as well as investigating the performance of the underlying algorithms to better understand the modelling process. During this effort I did also develop an R-based open-source toolbox for transparent data visualization [SpecVis](https://github.com/HJZollner/SpecVis).
+
+  When I'm not coding, I'm an outspoken podcast- and coffee-junkie. Pre-pandemic activities included visiting concerts and festivals with friends and occasional rock climbing, recently replaced with increasing passion for cooking."
