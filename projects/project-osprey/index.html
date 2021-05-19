@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>specfitlab | specfitlab</title>
+<title>specfitlab | Osprey</title>
 <meta name="description" content="advanced in-vivo magnetic resonance spectroscopy">
 
 <!-- Open Graph -->
@@ -30,7 +30,7 @@
 
 <link rel="stylesheet" href="/specfitlab-website/assets/css/main.css">
 
-<link rel="canonical" href="/specfitlab-website/blog/">
+<link rel="canonical" href="/specfitlab-website/projects/project-osprey/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -100,8 +100,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/specfitlab-website/jobs/">
                 jobs
@@ -142,7 +140,7 @@
           
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/specfitlab-website/blog/">
               blog
               
@@ -170,18 +168,63 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>newsblog</h1>
-    <h2>thoughts and musings and news and miscellaneous</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Osprey</h1>
+    <p class="post-description">Open-source MATLAB software for processing, modeling, and quantification of magnetic resonance spectroscopy data.</p>
+  </header>
 
+  <article>
+    <p><a href="https://github.com/schorschinho/osprey/releases"><img src="https://img.shields.io/github/v/release/schorschinho/osprey" alt="GitHub release (latest by date)" /></a>
+<a href="https://github.com/schorschinho/osprey/releases"><img src="https://img.shields.io/github/release-date/schorschinho/osprey" alt="GitHub Release Date" /></a>
+<a href="https://github.com/schorschinho/osprey/commits/develop"><img src="https://img.shields.io/github/commit-activity/m/schorschinho/osprey?foo=bar" alt="GitHub commit activity" /></a>
+<a href="https://github.com/schorschinho/osprey/commits/develop"><img src="https://img.shields.io/github/last-commit/schorschinho/osprey" alt="GitHub last commit" /></a>
+<a href="https://schorschinho.github.io/osprey"><img src="https://img.shields.io/website?down_color=lightgrey&amp;down_message=offline&amp;up_color=green&amp;up_message=online&amp;url=https%3A%2F%2Fschorschinho.github.io%2Fosprey" alt="Website" /></a>
+<a href="https://github.com/schorschinho/osprey/blob/develop/LICENSE.md"><img src="https://img.shields.io/github/license/schorschinho/osprey" alt="License" /></a></p>
 
-  <ul class="post-list">
-    
-  </ul>
+<p style="text-align: center; font-size: large">
+<img class="img-fluid rounded z-depth-1 mh-25" src="/specfitlab-website/assets/img/osprey.png" alt="" style="width: 25%" title="Download Osprey" />
+<br />
+<a href="https://github.com/schorschinho/osprey/releases" target="_blank">Download the latest Osprey release</a>
+<br />
+<a href="https://schorschinho.github.io/osprey/" target="_blank">Read the Osprey documentation</a>
+<br />
+<a href="https://forum.mrshub.org/c/mrs-software/osprey/10" target="_blank">Visit the Osprey support forum at the MRSHub</a>
+</p>
 
-  
+<p>One of the challenges of magnetic resonance spectroscopy research is the complexity and abundance of analysis methods. Most researchers have created their own analysis pipelines and scripts to transform raw data into metabolite concentrations, often using code that has grown somewhat organically over the course of many years. Perhaps it should not be surprising that the results that different researchers come up with do not typically agree very well.</p>
 
+<p>We actively develop Osprey, our all-in-one software environment for state-of-the art processing and quantitative analysis of in-vivo magnetic resonance spectroscopy (MRS) data. Osprey covers all steps of modern MRS data analysis, <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/nbm.4257" target="_blank">in compliance with 2020 expert consensus recommendations</a> and adhering to <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4484" target="_blank">minimum reporting standards</a>.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/specfitlab-website/assets/img/project-osprey/04-process-mets.png" alt="" title="OspreyProcess" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/specfitlab-website/assets/img/project-osprey/04-fit-mets.png" alt="" title="OspreyFit" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/specfitlab-website/assets/img/project-osprey/04-seg.png" alt="" title="OspreySeg" />
+    </div>
+</div>
+<div class="caption">
+    The Osprey GUI. Left: Processing tab with individual transients before and after frequency-and-phase correction. Middle: Integrated linear-combination modeling module. Right: Co-registration and tissue class segmentation (interfaced with SPM12).
+</div>
+
+<p>Our research is equally focused on the development and the application of advanced methodology. We created Osprey to provide a tool that can be applied out of the box by non-expert MRS users to analyze the most common MRS acquisition techniques. At the same time, the workflow is designed in a modular way to allow Osprey to easily expand and adapt to new acquisition and analysis methods.</p>
+
+<p>Osprey will always be entirely free and open-source. You can download the latest release from the Osprey GitHub repository.</p>
+
+<p style="text-align: center; font-size: large">
+<img class="img-fluid rounded z-depth-1 mh-25" src="/specfitlab-website/assets/img/osprey.png" alt="" style="width: 25%" title="Download Osprey" />
+<br />
+<a href="https://github.com/schorschinho/osprey/releases" target="_blank">Download the latest Osprey release</a>
+<br />
+<a href="https://schorschinho.github.io/osprey/" target="_blank">Read the Osprey documentation</a>
+<br />
+<a href="https://forum.mrshub.org/c/mrs-software/osprey/10" target="_blank">Visit the Osprey support forum at the MRSHub</a>
+</p>
+
+  </article>
 
 </div>
 
