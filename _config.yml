@@ -9,9 +9,12 @@ last_name: Oeltzschner
 email: goeltzs1@jhmi.edu
 description: advanced in-vivo magnetic resonance spectroscopy
 footer_text: >
+  <br>
+  All content licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+  <br>
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> and <a href="https://www.netlify.com" target="_blank">Netlify</a>.
+
 
 icon: 🧲 # the emoji used as the favicon
 url: # the base hostname & protocol for your site
